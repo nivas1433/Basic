@@ -1,2 +1,1 @@
-# Basic
-New file
+Learn more about configuring custom domains
